@@ -1,0 +1,26 @@
+#colorchange {
+	margin: 0 auto;
+	display: block;
+	width: 200px;
+	text-align: center;
+}
+
+.photobox {
+	width: 300px;
+	height: 300px;
+	outline: 1px solid #000;
+	margin: 10px auto;
+}
+
+#titlebox {
+	background-color: #f26822;
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+
+#titletext{
+	margin: 0;
+	color: #213f80;
+}
